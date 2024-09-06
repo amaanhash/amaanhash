@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amaanhash" alt="amaanhash" /></a> </p>
 
-- 🔭 I’m currently working on **Content Filtering through Age detection**
+- 🔭 I’m currently working on **Hotify**
 
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently learning **GenAI**
 
 - 📫 How to reach me **itamaanhashmi@gmail.com**
 
